@@ -1,0 +1,12 @@
+Warning[205] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 1 : Found directive in column 1. (List)
+Warning[205] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 2 : Found directive in column 1. (include)
+Warning[205] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 9 : Found directive in column 1. (org)
+Warning[203] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 10 : Found opcode in column 1. (goto)
+Warning[205] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 11 : Found directive in column 1. (org)
+Message[302] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 19 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 36 : Found label after column 1. (REINICIO)
+Error[116]   C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 51 : Address label duplicated or different in second pass (REINICIO)
+Warning[205] C:\USERS\FELIP\MPLABXPROJECTS\PRIMERPOINT.X\NEWPIC_8B_GENERAL.ASM 127 : Found directive in column 1. (end)
